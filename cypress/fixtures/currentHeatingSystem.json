@@ -1,0 +1,9 @@
+{
+    "currentHeating": [
+        "aNaturalGas",
+        "Propane",
+        "Oil",
+        "Electric",
+        "HeatPump"
+    ]
+}

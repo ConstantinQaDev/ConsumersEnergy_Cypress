@@ -1,0 +1,12 @@
+{
+    "newHeating": [
+        "bNaturalGas",
+        "Propane",
+        "Oil",
+        "Electric",
+        "HeatPump",
+        "DualFuelNaturalGas",
+        "DualFuelOil",
+        "DualFuelPropane"
+    ]
+}
